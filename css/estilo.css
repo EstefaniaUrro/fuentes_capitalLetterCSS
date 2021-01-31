@@ -1,0 +1,94 @@
+/* 
+font-family: 'Pacifico', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Satisfy', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Engagement', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Alex Brush', cursive;
+font-family: 'Just Another Hand', cursive;
+/* */
+body{
+    background-color:black; 
+}
+section{
+    width: 1200px;
+    border: 2px black solid;
+    margin: auto;   
+}
+article{
+    width: 550px;
+    height: 400px;
+    background-color: beige; 
+    float:left;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.uno h2{
+    color:#5b42e2;
+    font-family: 'Engagement', cursive;
+    font-size:40px;
+}
+.uno p{
+    color:#cb8d1c;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+}
+.dos h2{
+    color:crimson;
+    font-family:'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 35px;
+}
+.dos p{
+    color:#1e0bfc;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+}
+.tres h2{
+    color:darkred;
+    font-family:  'Bangers', cursive;
+    text-align:center;
+    font-size:35px;
+}
+.tres p{
+    color:fuchsia;
+    font-family: 'Pacifico', cursive; 
+    font-size: 20px
+}
+.cuatro h2{
+    color:orange;
+    font-family: 'Alex Brush', cursive;
+    text-align: right;
+    font-size: 35px;
+}
+.cuatro p{
+    color:darkmagenta;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 25px;
+}
+.capital:first-letter {
+    color:firebrick;
+    margin-right:5px;
+    font-size: 3em;
+    font-family:'Kaushan Script', cursive; 
+}                                                                        
+.capital2:first-letter { 
+    color:#cb8d1c;
+    margin-right:5px;
+    font-size: 3em;
+    font-family:'Kaushan Script', cursive; 
+}  
+.capital3:first-letter {
+    color:darkviolet;
+    margin-right:5px;
+    font-size: 3em;
+    font-family:'Kaushan Script', cursive; 
+}
+.capital4:first-letter {
+    color:#5b42e2;
+    margin-right:5px;
+    font-size: 3em;
+    font-family:'Kaushan Script', cursive; 
+}
